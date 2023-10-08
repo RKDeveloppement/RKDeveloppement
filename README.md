@@ -2,7 +2,9 @@
 
 I'm an experienced Python developer with over 2 years of expertise. Welcome to my GitHub profile!
 
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python" width="100">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python" width="100">
+</p>
 
 ## About Me
 
