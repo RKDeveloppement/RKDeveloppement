@@ -1,8 +1,8 @@
-# Hi there, I'm RKDEV! 👋
+# Hi there, I'm RKDev! 👋
 
 I'm an experienced Python developer with over 2 years of expertise. Welcome to my GitHub profile!
 
-![Python](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python" width="100">
 
 ## About Me
 
