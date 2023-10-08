@@ -9,7 +9,7 @@ I'm an experienced Python developer with over 2 years of expertise. Welcome to m
 ## About Me
 
 - 🐍 Python is my passion and forte.
-- 🔭 Currently working on [ongoing project]().
+- 🔭 Currently working on [BOT]().
 - 🌱 I'm always learning and open to new opportunities and collaborations.
 
 ## Contact Me
