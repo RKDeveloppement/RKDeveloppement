@@ -1,7 +1,18 @@
-<h1 align="center"> Hey, I'm AkaTool's </h1>
+# Hi there, I'm RKDEV! 👋
 
-<h4 align="center">Python Developper.</h4>
+I'm an experienced Python developer with over 2 years of expertise. Welcome to my GitHub profile!
 
-<p align="center">  
-  <a href=""> <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-</p>
+![Python](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
+
+## About Me
+
+- 🐍 Python is my passion and forte.
+- 🔭 Currently working on [ongoing project]().
+- 🌱 I'm always learning and open to new opportunities and collaborations.
+
+## Contact Me
+
+- 📧 Email : [ryukmail@proton.me](mailto:ryukmail@proton.me)
+- 🔮 Discord : @ibn.s
+
+Feel free to explore my projects below and reach out if you'd like to learn more or collaborate on an interesting project!
