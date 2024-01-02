@@ -9,7 +9,7 @@ I'm an experienced Python developer with over 2 years of expertise. Welcome to m
 ## About Me
 
 - 🐍 Python is my passion and forte.
-- 🔭 Currently working on [QuranBot](https://github.com/RKDeveloppement/).
+- 🔭 Currently working on [pyAternos](https://github.com/RKDeveloppement/pyAternos).
 - 🌱 I'm always learning and open to new opportunities and collaborations.
 
 ## Contact Me
