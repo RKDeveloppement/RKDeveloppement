@@ -15,4 +15,4 @@ Python developer with over 2 years of expertise.
 ## Contact Me
 
 - 📧 Email : [ryukmail@proton.me](mailto:ryukmail@proton.me)
-- 🔮 Discord : @ibn.s
+- 🔥 Discord : @ibn.s
