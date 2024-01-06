@@ -8,7 +8,7 @@ Python developer with over 2 years of expertise.
 
 ## About Me
 
-- 🐍 Web is my and forte.
+- 🐍 Web scraping is my and forte.
 - 🔭 Currently working on [pyAternos](https://github.com/RKDeveloppement/pyAternos).
 - 🌱 I'm always learning and open to new opportunities and collaborations.
 
